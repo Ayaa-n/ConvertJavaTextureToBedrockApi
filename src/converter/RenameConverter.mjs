@@ -1,4 +1,4 @@
-import { AbstractConverter } from "@ModifiedCommand/convert-base-api";
+import { AbstractConverter } from "@modifiedcommand/convert-base-api";
 
 /**
  * Class RenameConverter
