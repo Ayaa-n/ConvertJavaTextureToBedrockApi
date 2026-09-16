@@ -1,4 +1,4 @@
-import { AbstractConverter } from "@vironite-23/convert-base-api";
+import { AbstractConverter } from "@ModifiedCommand/convert-base-api";
 
 /**
  * Class RenameConverter
@@ -1296,7 +1296,7 @@ class RenameConverter extends AbstractConverter {
             ["textures/entity/zombie_villager2/levels/gold.png", "textures/entity/zombie_villager2/levels/level_gold.png"],
             ["textures/entity/zombie_villager2/levels/iron.png", "textures/entity/zombie_villager2/levels/level_iron.png"],
             ["textures/entity/zombie_villager2/levels/stone.png", "textures/entity/zombie_villager2/levels/level_stone.png"],
-            ["textures/entity/zombie_villager2/professions/mason.png", "textures/entity/zombie_villager2/professions/stonemason.png"],
+            ["textures/entity/zombie_villager2/professions/mason.png", "textures/entity/zombie_villager2/professions/stonemason.png"]
 
         ];
     }
